@@ -87,8 +87,8 @@ const test = (str) => str + 'test';
 | Mouse         | 10.33         | 1         |
 
 * [x] task1
-* [] task2
-* [] task3
+* [ ] task2
+* [ ] task3
 * [x] task4
 
 <!-- Mentiosn -->
